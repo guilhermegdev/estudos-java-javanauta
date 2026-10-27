@@ -1,12 +1,15 @@
-# Estudos Java — Javanauta Academy
+# Estudos de Java
 
-Repositório dedicado aos exercícios e conteúdos estudados durante minha formação em Java.
+Repositório pessoal de exercícios práticos desenvolvidos durante meus estudos de Java. O objetivo é consolidar os fundamentos da linguagem e registrar minha evolução por meio de códigos organizados por assunto.
 
-## Objetivo
+## Conteúdos praticados
 
-Registrar minha evolução, praticar os fundamentos da linguagem e desenvolver códigos organizados.
+- Fundamentos da linguagem e operadores
+- Estruturas condicionais
+- Estrutura de seleção com switch
+- Laços de repetição: while e do-while
 
-## Tecnologias
+## Tecnologias e ferramentas
 
 - Java 21
 - IntelliJ IDEA
@@ -14,13 +17,8 @@ Registrar minha evolução, praticar os fundamentos da linguagem e desenvolver c
 
 ## Organização
 
-Os exercícios serão organizados dentro da pasta `src`, separados por assunto conforme o avanço dos estudos.
+As classes ficam em pacotes dentro da pasta src, separadas por assunto. Cada classe contém um exercício independente, executado pelo método main.
 
-## Progresso
+## Referência de estudo
 
-- [ ] Fundamentos
-- [ ] Estruturas condicionais
-- [ ] Estruturas de repetição
-- [ ] Arrays
-- [ ] Métodos
-- [ ] Orientação a objetos
+Conteúdos acompanhados no curso Javanauta.
