@@ -1,3 +1,5 @@
+package fundamentos.revisao;
+
 public class ExercicioWhileEstoque {
     public static void main(String[] args) {
         int estoque = 10;

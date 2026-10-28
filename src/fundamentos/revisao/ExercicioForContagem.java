@@ -1,3 +1,5 @@
+package fundamentos.revisao;
+
 public class ExercicioForContagem {
     public static void main(String[] args) {
 

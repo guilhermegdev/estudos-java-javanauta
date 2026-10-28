@@ -1,3 +1,5 @@
+package fundamentos.revisao;
+
 public class ExercicioSwitchPagamento {
 
     public static void main(String[] args) {
