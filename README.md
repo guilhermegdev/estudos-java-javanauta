@@ -7,7 +7,7 @@ Repositório pessoal de exercícios práticos desenvolvidos durante meus estudos
 - Fundamentos da linguagem e operadores
 - Estruturas condicionais
 - Estrutura de seleção com switch
-- Laços de repetição: while e do-while
+- Laços de repetição: for, while e do-while
 
 ## Tecnologias e ferramentas
 
@@ -17,7 +17,7 @@ Repositório pessoal de exercícios práticos desenvolvidos durante meus estudos
 
 ## Organização
 
-As classes ficam em pacotes dentro da pasta src, separadas por assunto. Cada classe contém um exercício independente, executado pelo método main.
+As classes estão organizadas no pacote fundamentos.revisao, dentro da pasta src. Cada classe contém um exercício independente, executado pelo método main.
 
 ## Referência de estudo
 
